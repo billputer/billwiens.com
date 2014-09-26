@@ -1,0 +1,29 @@
+body {
+  width: 100%;
+  margin: 0;
+  text-align: center;
+}
+
+.container {
+  width: 300px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-size: 3em;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin: 20px auto;
+}
+ul li a {
+  font-size: 2em;
+  display: block;
+  padding: 30px;
+  background-color: grey;
+ }
