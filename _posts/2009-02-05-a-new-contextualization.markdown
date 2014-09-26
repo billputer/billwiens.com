@@ -25,7 +25,7 @@ Surprisingly enough (or not) that quote is attributed to one of my favorite publ
 If that quote sparks your interest I heavily recommend taking the twenty minutes and watching the following video.
 
 
-
+<iframe width="420" height="315" src="//www.youtube.com/embed/5SaFTm2bcac" frameborder="0" allowfullscreen></iframe>
 
 
 I think it's entirely appropriate that Wax Tailor chose to sample from this video, and I'm quite pleased with the result.  Most music that relies heavily on samples embraces remix culture implicitly, by either simply by the fact that it appropriates from past work, or by making purposeful references to our common cultural consciousness (à la Girl Talk).  Here in _Once Upon A Past_ we have a direct endorsement of the reuse of our cultural roots.  How very apt that the endorsement itself is re-contextualized from another work entirely.

@@ -12,4 +12,4 @@ post_format:
 - Image
 ---
 
-[![Fox licking a window](http://billwiens.com/wordpress/wp-content/uploads/2012/11/fox-licker.gif)](http://billwiens.com/wordpress/wp-content/uploads/2012/11/fox-licker.gif)
+[![Fox licking a window](/images/2012/11/fox-licker.gif)](/images/2012/11/fox-licker.gif)
