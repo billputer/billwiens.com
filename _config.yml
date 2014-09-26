@@ -10,3 +10,4 @@ github_username:  billputer
 
 # Build settings
 markdown: kramdown
+timezone: "America/Los_Angeles"
