@@ -4,13 +4,22 @@ email: billwiens@gmail.com
 description: >
   We are the Internet.
 baseurl: ""
-url: "http://billwiens.com" # the base hostname & protocol for your site
+url: "http://billwiens.com"
+logo: logo.png
 twitter_username: billwiens
 github_username:  billputer
 
 # Build settings
 markdown: kramdown
 timezone: "America/Los_Angeles"
+
+links:
+  - title: Home
+    url: /
+    external: false
+    icon: home
+  - title: Blog
+    url: /blog
 
 exclude:
 - Gemfile
