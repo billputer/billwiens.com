@@ -521,6 +521,11 @@ html, body, .notepad-post-container, .notepad-post-header {
       margin-left: auto;
       margin-right: auto; } }
 
+.notepad-home-content {
+  max-width: 23rem;
+  margin: 0 auto;
+}
+
 ::selection {
   background: #e51843;
   color: #fff; }
