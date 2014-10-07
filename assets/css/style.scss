@@ -1,7 +1,17 @@
 ---
 ---
-
 /* Main Styles */
+
+// colors
+$highlight_color: #e51843;
+
+$background_dark: black;
+$background_gray: gray;
+$background_light: white;
+
+
+$text_dark: black;
+$text_light: white;
 
 .cf {
   &:before {
@@ -44,7 +54,7 @@ header, main, footer {
 }
 
 main, .notepad-share-icons, .notepad-disqus {
-  background: white;
+  background: $background_light;
 }
 
 .animated-post {
@@ -63,15 +73,15 @@ main, .notepad-share-icons, .notepad-disqus {
   .notepad-mobile-menu a {
     display: inline-block;
     outline: none;
-    color: black;
+    color: $background_dark;
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;
     &:hover {
-      color: black;
+      color: $background_dark;
     }
   }
   ul {
-    background: black;
+    background: $background_dark;
     position: absolute;
     width: 100%;
     -webkit-transform: translate3d(0, -110%, 0);
@@ -97,7 +107,7 @@ main, .notepad-share-icons, .notepad-disqus {
       text-align: center;
       padding: 0.3125rem;
       a {
-        color: white;
+        color: $text_light;
         display: block;
         width: 100%;
         height: 100%;
@@ -106,7 +116,7 @@ main, .notepad-share-icons, .notepad-disqus {
       &.notepad-mobile-close-btn {
         padding-right: 1.25rem;
         a {
-          color: white;
+          color: $text_light;
         }
       }
     }
@@ -149,13 +159,13 @@ main, .notepad-share-icons, .notepad-disqus {
         text-align: left;
         padding: 0;
         a {
-          color: black;
+          color: $text_dark;
           display: inline-block;
           border-bottom: 0.1875rem solid transparent;
           width: auto;
           height: auto;
           &:hover {
-            border-bottom: 0.1875rem solid #e51843;
+            border-bottom: 0.1875rem solid $highlight_color;
           }
         }
       }
@@ -165,7 +175,7 @@ main, .notepad-share-icons, .notepad-disqus {
 
 .notepad-site-head {
   .notepad-site-head-menu {
-    background: white;
+    background: $background_light;
     .notepad-blog-logo {
       display: inline-block;
       max-height: 5rem;
@@ -183,13 +193,13 @@ main, .notepad-share-icons, .notepad-disqus {
       font-family: "Montserrat", sans-serif;
       font-size: 1.625rem;
       font-weight: 700;
-      color: black;
+      color: $text_dark;
       text-transform: uppercase;
       letter-spacing: -0.0625rem;
       a {
-        color: black;
+        color: $text_dark;
         &:hover {
-          color: black;
+          color: $text_dark;
         }
       }
     }
@@ -197,7 +207,7 @@ main, .notepad-share-icons, .notepad-disqus {
   .notepad-site-head-content {
     width: 100%;
     text-align: center;
-    background-color: black;
+    background-color: $background_dark;
     background-size: cover;
     &.with-bg-cover {
       background-color: rgba(0, 0, 0, 0.7);
@@ -205,13 +215,13 @@ main, .notepad-share-icons, .notepad-disqus {
     .notepad-site-head-title-bg {
       display: inline-block;
       padding: 0.625rem;
-      background: #e51843;
+      background: $highlight_color;
       line-height: 1.1;
     }
     h1, h2 {
       margin: 0;
       padding: 0;
-      color: white;
+      color: $text_light;
       text-transform: uppercase;
     }
     h1 {
@@ -298,20 +308,20 @@ main, .notepad-share-icons, .notepad-disqus {
       display: block;
       font-size: 3.25rem;
       font-weight: 800;
-      color: #e51843;
+      color: $highlight_color;
       font-family: "Montserrat", sans-serif;
     }
     .month-year {
       display: block;
       font-size: 1rem;
-      color: black;
+      color: $text_dark;
       font-size: 0.875rem;
       font-family: "Montserrat", sans-serif;
       text-transform: uppercase;
     }
   }
   .notepad-post-header .notepad-post-title {
-    color: black;
+    color: $text_dark;
     font-weight: 700;
     text-transform: uppercase;
     text-align: center;
@@ -320,11 +330,11 @@ main, .notepad-share-icons, .notepad-disqus {
     padding: 0;
     line-height: 1.1;
     a {
-      color: black;
+      color: $text_dark;
     }
   }
   .notepad-post-excerpt {
-    color: black;
+    color: $text_dark;
     font-size: 1.25rem;
     margin-top: 0.625rem;
     text-align: center;
@@ -336,7 +346,7 @@ main, .notepad-share-icons, .notepad-disqus {
   .notepad-index-post-tags {
     font-size: 0.8125rem;
     float: none;
-    color: black;
+    color: $text_dark;
     text-align: center;
     padding-top: 1.25rem;
     padding-bottom: 0.625rem;
@@ -344,13 +354,13 @@ main, .notepad-share-icons, .notepad-disqus {
       display: inline-block;
       padding: 0.3125rem 0.9375rem;
       margin-right: 0.1875rem;
-      color: black;
+      color: $text_dark;
       border: 0.0625rem solid black;
       border-radius: 0.125rem;
       margin-bottom: 0.3125rem;
       &:hover {
-        color: #e51843;
-        border: 0.0625rem solid #e51843;
+        color: $highlight_color;
+        border: 0.0625rem solid $highlight_color;
       }
     }
   }
@@ -362,8 +372,8 @@ main, .notepad-share-icons, .notepad-disqus {
     margin-right: auto;
     margin-top: 1.5625rem;
     font-size: 0.8125rem;
-    color: white;
-    background-color: black;
+    color: $text_light;
+    background-color: $background_dark;
     font-weight: 600;
     padding: 0.625rem 2.5rem;
     text-transform: uppercase;
@@ -372,7 +382,7 @@ main, .notepad-share-icons, .notepad-disqus {
     width: 60%;
     border-radius: 0.125rem;
     &:hover {
-      background-color: #e51843;
+      background-color: $highlight_color;
     }
   }
 }
@@ -431,19 +441,19 @@ nav.pagination {
     display: inline-block;
     padding: 0.625rem 1.25rem;
     border-radius: 0.1875rem;
-    color: black;
+    color: $text_dark;
     border: 0.125rem solid black;
   }
   .newer-posts:hover, .older-posts:hover {
-    border: 0.125rem solid #e51843;
-    color: #e51843;
+    border: 0.125rem solid $highlight_color;
+    color: $highlight_color;
   }
   .newer-posts.faded, .older-posts.faded {
-    color: gray;
+    color: $background_gray;
     border: 0.125rem solid gray;
   }
   .newer-posts.faded a, .older-posts.faded a {
-    color: gray;
+    color: $background_gray;
   }
   .newer-posts .fa {
     margin-right: 0.625rem;
@@ -454,7 +464,7 @@ nav.pagination {
 }
 
 .notepad-site-footer {
-  background: black;
+  background: $background_dark;
   &.with-bg-cover {
     background-color: rgba(0, 0, 0, 0.7);
   }
@@ -467,14 +477,14 @@ nav.pagination {
     width: 100%;
     padding: 0;
     text-align: center;
-    color: white;
+    color: $text_light;
     float: none;
     text-align: center;
     font-size: 0.8125rem;
     padding-top: 3.75rem;
     padding-bottom: 1.25rem;
     a {
-      color: white;
+      color: $text_light;
     }
   }
   .social-icons {
@@ -482,7 +492,7 @@ nav.pagination {
     float: none;
     padding-bottom: 3.75rem;
     a {
-      color: black;
+      color: $text_dark;
     }
   }
 }
@@ -561,7 +571,7 @@ nav.pagination {
   .notepad-tags-header {
     font-family: "Montserrat", sans-serif;
     font-size: 1.125rem;
-    color: black;
+    color: $text_dark;
     text-transform: uppercase;
     margin: 0;
     padding: 0;
@@ -569,7 +579,7 @@ nav.pagination {
     padding-bottom: 3.125rem;
     text-align: center;
     .tag-name {
-      color: #e51843;
+      color: $highlight_color;
       text-transform: none;
     }
   }
@@ -677,7 +687,7 @@ figcaption {
   padding: .5em 1em;
   margin-top: 1.5em;
   text-indent: 0;
-  background-color: #f2f2f2;
+  background-color: $background_gray;
   border: 1px solid #e6e6e6;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -877,7 +887,7 @@ figcaption {
   a {
     color: #cccccc;
     &:hover {
-      color: white;
+      color: $text_light;
     }
   }
 }
@@ -918,7 +928,7 @@ button {
   opacity: 0.65;
   filter: alpha(opacity = 65);
   padding: 0 0 18px 10px;
-  color: white;
+  color: $text_light;
   font-style: normal;
   font-size: 28px;
   font-family: Arial, Baskerville, monospace;
@@ -936,7 +946,7 @@ button {
 }
 
 .mfp-image-holder .mfp-close, .mfp-iframe-holder .mfp-close {
-  color: white;
+  color: $text_light;
   right: -6px;
   text-align: right;
   padding-right: 6px;
@@ -1043,7 +1053,7 @@ button {
     width: 100%;
     height: 100%;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
-    background: black;
+    background: $background_dark;
   }
 }
 

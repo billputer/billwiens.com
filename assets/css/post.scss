@@ -1,7 +1,17 @@
 ---
 ---
-
 /* Post styling */
+
+// colors
+$highlight_color: #e51843;
+
+$background_dark: black;
+$background_gray: gray;
+$background_light: white;
+
+
+$text_dark: black;
+$text_light: white;
 
 .cf {
   &:before {
@@ -29,13 +39,13 @@ html, body, .notepad-post-container, .notepad-post-header {
   font-family: "Montserrat", sans-serif;
   font-size: 1.625rem;
   font-weight: 700;
-  color: white;
+  color: $text_light;
   text-transform: uppercase;
   letter-spacing: -0.0625rem;
   a {
-    color: white;
+    color: $text_light;
     &:hover {
-      color: white;
+      color: $text_light;
     }
   }
 }
@@ -51,9 +61,9 @@ html, body, .notepad-post-container, .notepad-post-header {
   /* -------------------------- */
   /* Delays */
   .notepad-blog-menu .notepad-mobile-menu a {
-    color: white;
+    color: $text_light;
     &:hover {
-      color: white;
+      color: $text_light;
     }
   }
   .notepad-post-header {
@@ -64,8 +74,8 @@ html, body, .notepad-post-container, .notepad-post-header {
     .notepad-post-menu-header {
       width: 100%;
       height: 5rem;
-      background-color: black;
-      color: white;
+      background-color: $background_dark;
+      color: $text_light;
       position: absolute;
       top: 0;
       left: 0;
@@ -109,13 +119,13 @@ html, body, .notepad-post-container, .notepad-post-header {
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
     a {
-      color: black;
+      color: $text_dark;
       &:hover {
-        color: #e51843;
+        color: $highlight_color;
       }
     }
     h1 {
-      color: black;
+      color: $text_dark;
       font-weight: 800;
       font-size: 2.5rem;
       margin: 0 auto;
@@ -123,10 +133,10 @@ html, body, .notepad-post-container, .notepad-post-header {
       text-transform: uppercase;
     }
     &.background--light h1 {
-      color: black;
+      color: $text_dark;
     }
     &.background--dark h1 {
-      color: white;
+      color: $text_light;
     }
   }
   button.trigger {
@@ -146,12 +156,12 @@ html, body, .notepad-post-container, .notepad-post-header {
     cursor: pointer;
     &.background--light {
       &::before, span::before {
-        color: black;
+        color: $text_dark;
       }
     }
     &.background--dark {
       &::before, span::before {
-        color: white;
+        color: $text_light;
       }
     }
   }
@@ -174,7 +184,7 @@ html, body, .notepad-post-container, .notepad-post-header {
       left: -200%;
       padding: 0.8em;
       width: 500%;
-      color: black;
+      color: $text_dark;
       content: attr(data-info);
       font-size: 1.125rem;
       text-transform: uppercase;
@@ -195,7 +205,7 @@ html, body, .notepad-post-container, .notepad-post-header {
         left: 0;
         width: 100%;
         height: 100%;
-        color: black;
+        color: $text_dark;
         content: "\f078";
         text-transform: none;
         font-weight: normal;
@@ -217,7 +227,7 @@ html, body, .notepad-post-container, .notepad-post-header {
       padding-left: 1.875rem;
       padding-right: 1.875rem;
       a, code {
-        color: #e51843;
+        color: $highlight_color;
       }
       ul, ol {
         padding-left: 1.25rem;
@@ -321,14 +331,14 @@ html, body, .notepad-post-container, .notepad-post-header {
     }
     .notepad-post-header p {
       opacity: 0;
-      color: black;
+      color: $text_dark;
     }
     &.modify .notepad-post-header {
       p {
         opacity: 1;
       }
       h1 {
-        color: black;
+        color: $text_dark;
       }
     }
     .notepad-post-content > div {
@@ -352,7 +362,7 @@ html, body, .notepad-post-container, .notepad-post-header {
 
 @media only screen and (min-width: 40.063em) {
   .post-template .notepad-blog-menu ul li a {
-    color: white;
+    color: $text_light;
     &:hover {
       border-bottom: 0.1875rem solid white;
     }
@@ -420,11 +430,11 @@ html, body, .notepad-post-container, .notepad-post-header {
   padding-top: 3.75rem;
   padding-bottom: 3.75rem;
   border-top: 0.0625rem solid #f2f2f2;
-  color: #e51843;
+  color: $highlight_color;
   a {
     display: inline-block;
     margin: 0 0.9375rem;
-    color: #e51843;
+    color: $highlight_color;
   }
 }
 
@@ -447,7 +457,7 @@ html, body, .notepad-post-container, .notepad-post-header {
     .author-label {
       display: block;
       font-size: 1rem;
-      color: gray;
+      color: $background_gray;
       font-style: italic;
     }
     .author-website {
@@ -463,7 +473,7 @@ html, body, .notepad-post-container, .notepad-post-header {
     > p {
       font-size: 1.125rem;
       a {
-        color: #e51843;
+        color: $highlight_color;
       }
     }
     .notepad-post-author-avatar {
@@ -515,8 +525,8 @@ html, body, .notepad-post-container, .notepad-post-header {
 .notepad-page-menu-header, .notepad-post-menu-header-simple {
   width: 100%;
   height: 5rem;
-  background-color: black;
-  color: white;
+  background-color: $background_dark;
+  color: $text_light;
   position: relative;
   z-index: 9999;
 }
@@ -536,15 +546,15 @@ html, body, .notepad-post-container, .notepad-post-header {
 }
 
 .notepad-page-title a, .notepad-post-title-simple a {
-  color: black;
+  color: $text_dark;
 }
 
 .notepad-page-title a:hover, .notepad-post-title-simple a:hover {
-  color: #e51843;
+  color: $highlight_color;
 }
 
 .notepad-page-title h1, .notepad-post-title-simple h1 {
-  color: black;
+  color: $text_dark;
   font-weight: 800;
   font-size: 3.125rem;
   padding: 0;
@@ -624,7 +634,7 @@ html, body, .notepad-post-container, .notepad-post-header {
     padding-left: 1.875rem;
     padding-right: 1.875rem;
     a, code {
-      color: #e51843;
+      color: $highlight_color;
     }
     ul, ol {
       padding-left: 1.25rem;
@@ -718,8 +728,8 @@ html, body, .notepad-post-container, .notepad-post-header {
 }
 
 ::selection, ::-moz-selection {
-  background: #e51843;
-  color: #fff;
+  background: $highlight_color;
+  color: $text_light;
 }
 
 pre {
@@ -826,7 +836,7 @@ iframe {
     span {
       font-size: 10px;
       vertical-align: super;
-      color: black;
+      color: $text_dark;
     }
   }
 }
