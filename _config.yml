@@ -9,6 +9,17 @@ logo: logo.png
 twitter_username: billwiens
 github_username:  billputer
 
+# Owner/author information
+owner:
+  name: Bill Wiens
+  avatar: profile/bill-wolf-large.jpg
+  email: billwiens@gmail.com
+  # Social networking links used in footer.
+  twitter: billwiens
+  facebook: billwiens
+  github: billputer
+  instagram: billputer
+
 # Build settings
 markdown: kramdown
 timezone: "America/Los_Angeles"
