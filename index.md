@@ -1,6 +1,6 @@
 ---
 layout: default
-title: billwiens.com
+title: Home
 css-class: notepad-home-content
 ---
 
