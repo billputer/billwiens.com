@@ -1,2 +1,0 @@
-#!/usr/bin/env bash
-jekyll build && rsync -avz --delete _site/ billwiens.com:~/billwiens.com/_site/

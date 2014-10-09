@@ -4,7 +4,7 @@ email: billwiens@gmail.com
 description: >
   We are the Internet.
 baseurl: ""
-url: "http://billwiens.com"
+url: "http://127.0.0.1:4000"
 logo: logo.png
 
 # Owner/author information
