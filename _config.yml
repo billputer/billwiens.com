@@ -6,8 +6,6 @@ description: >
 baseurl: ""
 url: "http://billwiens.com"
 logo: logo.png
-twitter_username: billwiens
-github_username:  billputer
 
 # Owner/author information
 owner:
