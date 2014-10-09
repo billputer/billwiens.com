@@ -10,7 +10,6 @@ excerpt: My father Gary Wiens has been severely injured and he's in stable condi
 layout: post
 slug: a-brush-with-death
 title: A brush with death
-imagefeature: 2010/07/the-perpetrator.jpg
 categories:
 - Family
 ---
