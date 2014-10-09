@@ -6,7 +6,7 @@
 $highlight_color: #d33682;
 
 $background_dark: #002B36;
-$background_gray: #93a1a1;
+$background_gray: #eee8d5;
 $background_light: #fdf6e3;
 
 $text_dark: #268BD2;
@@ -449,7 +449,7 @@ html, body, .notepad-post-container, .notepad-post-header {
   padding: 0;
   padding-top: 3.75rem;
   padding-bottom: 3.75rem;
-  background: #f2f2f2;
+  background: $background_gray;
   .notepad-post-author {
     padding-left: 1.875rem;
     padding-right: 1.875rem;
