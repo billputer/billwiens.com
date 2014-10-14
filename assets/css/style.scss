@@ -267,30 +267,6 @@ main, .notepad-share-icons, .notepad-disqus {
   }
 }
 
-@media only screen and (min-width: 90em) {
-  .notepad-site-head .notepad-site-head-content {
-    h1 {
-      padding-top: 10.3125rem;
-    }
-    h2 {
-      font-size: 5rem;
-      padding-bottom: 10.3125rem;
-    }
-  }
-}
-
-@media only screen and (min-width: 100em) {
-  .notepad-site-head .notepad-site-head-content {
-    h1 {
-      padding-top: 12.5rem;
-    }
-    h2 {
-      font-size: 6.25rem;
-      padding-bottom: 12.5rem;
-    }
-  }
-}
-
 .notepad-content .notepad-index-post {
   visibility: hidden;
   padding-top: 2.5rem;
