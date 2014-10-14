@@ -773,9 +773,12 @@ figcaption {
 }
 
 /* Resume-specific */
-.notepad-resume {
+.notepad-resume .notepad-page-content {
   .resume-name, .resume-contact-info {
     text-align: center;
+  }
+  h1 {
+    border-bottom: 1px solid #ddd;
   }
 }
 
