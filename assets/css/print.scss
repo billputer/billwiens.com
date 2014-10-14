@@ -1,0 +1,10 @@
+---
+---
+/* Print Styles */
+@media print {
+    .notepad-page-menu-header,
+    .notepad-site-head-menu,
+    .notepad-site-footer {
+        display: none
+    }
+}
