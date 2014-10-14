@@ -5,8 +5,6 @@ permalink: /resume/
 css-class: notepad-resume
 ---
 
-* * *
-
 ## Bill Wiens
 {: .resume-name}
 
@@ -14,8 +12,6 @@ billwiens@gmail.com<br/>
 503.689.3803<br/>
 Seattle, WA 98102<br/>
 {: .resume-contact-info}
-
-* * *
 
 # Experience
 
@@ -51,8 +47,6 @@ Seattle, WA 98102<br/>
 * Took charge of an initiative to document and consolidate Freelock's server infrastructure.
 * Migrated internal services to a virtualized environment using VMware Server.
 
-* * *
-
 # Technical Skills
 
 * Capable of creating concise and elegant code in C++, Python, PHP, and Ruby.
@@ -63,8 +57,6 @@ Seattle, WA 98102<br/>
 * Expert with Git and Subversion.
 * Superb problem-solving skills in hardware and networking.
 
-* * *
-
 # Education
 
 Willamette University in Salem, OR<br/>
@@ -73,15 +65,11 @@ B.A., Computer Science - 2004-2008
 Linkoping University in Linköping, Sweden<br/>
 Study abroad program - 2007
 
-* * *
-
 # Coworkers know me for
 
 * My incredible collection of animated GIFs
 * My incredible teamwork and ass-covering
 * Explaining technological trade-offs to non-techy stakeholders
-
-* * *
 
 # Activities and Interests
 
@@ -89,8 +77,6 @@ Study abroad program - 2007
 * Lifehacking, open-content and open-source communities, mobile computing.
 * Graphic design, assembling and disassembling everything, vintage road bikes, ascending mountains.
 * The intersection of technology and culture.
-
-* * *
 
 # References
 
