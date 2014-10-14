@@ -37,7 +37,7 @@
 </header>
 
 
-<main class="notepad-content {{page.css-class}}" role="main">
+<main class="notepad-content{% if page.css-class %} {{page.css-class}}{% endif %}" role="main">
     <div>{{ content }}</div>
 </main>
     {% include footer.html %}

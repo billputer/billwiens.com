@@ -6,7 +6,7 @@
 </head>
 <body class="post-template" itemscope itemtype="http://schema.org/WebPage">  
 {% if page.imagefeature %}
-        <main id="notepad-post-container" class="notepad-post-container intro-effect-sliced" role="main">
+        <main id="notepad-post-container" class="notepad-post-container intro-effect-sliced {% if page.css-class %}{{page.css-class}}{% endif %}" role="main">
             <header class="notepad-post-header">
                 <div class="bg-img"></div>
                 
