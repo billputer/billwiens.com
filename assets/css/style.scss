@@ -253,19 +253,6 @@ main, .notepad-share-icons, .notepad-disqus {
   }
 }
 
-@media only screen and (min-width: 70em) {
-  .notepad-site-head .notepad-site-head-content {
-    h1 {
-      padding-top: 7.5rem;
-      font-size: 0.8rem;
-    }
-    h2 {
-      font-size: 3.5rem;
-      padding-bottom: 7.5rem;
-      font-weight: 700;
-    }
-  }
-}
 
 .notepad-content .notepad-index-post {
   visibility: hidden;
@@ -470,25 +457,6 @@ nav.pagination {
     padding-bottom: 3.75rem;
     a {
       color: $text_dark;
-    }
-  }
-}
-
-@media only screen and (min-width: 70em) {
-  .notepad-site-footer {
-    .social-icons {
-      width: 49%;
-      padding: 5rem;
-    }
-    .copyright {
-      width: 49%;
-      padding: 5rem;
-      text-align: left;
-      float: left;
-    }
-    .social-icons {
-      text-align: right;
-      float: right;
     }
   }
 }
