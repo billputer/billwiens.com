@@ -1,8 +1,7 @@
 ---
 ---
-/* Main Styles */
 
-// colors
+// Global colors
 $highlight_color: #d33682;
 
 $background_dark: #002B36;
@@ -13,6 +12,7 @@ $background_light: #fdf6e3;
 $text_dark: #268BD2;
 $text_light: #d33682;
 
+/* Global styling */
 
 .cf {
   &:before {
@@ -1209,3 +1209,7 @@ img.mfp-img {
     padding-top: 0;
   }
 }
+
+// Import partials
+@import 'post';
+@import 'print';

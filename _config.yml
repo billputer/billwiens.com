@@ -32,6 +32,9 @@ links:
   - title: Blog
     url: /blog
 
+sass:
+    sass_dir: assets/css
+
 exclude:
 - Gemfile
 - Gemfile.lock
