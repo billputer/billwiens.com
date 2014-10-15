@@ -12,6 +12,8 @@ I’m Bill Wiens. You either know me or you don’t.
 
 # On the Internet
 
+On this site, you can view [recent posts](/blog/recent/) or [browse by category](/blog/categories/). I don't update often, but when I do it's spectacular.
+
 My presence extends beyond billwiens.com.
 
 * [Twitter](https://twitter.com/billwiens) – short bursts of information

@@ -29,8 +29,11 @@ links:
     url: /
     external: false
     icon: home
-  - title: Blog
-    url: /blog
+  - title: Categories
+    url: /blog/categories/
+  - title: Recent
+    url: /blog/recent/
+
 
 sass:
     sass_dir: assets/css

@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Recent posts
+permalink: /blog/recent/
+title: Recent Posts
+description: "An archive of posts sorted by post date."
 ---
 
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Posts by date</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
