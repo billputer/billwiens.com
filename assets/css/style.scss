@@ -378,6 +378,7 @@ main, .notepad-share-icons, .notepad-disqus {
 }
 
 @media only screen and (min-width: 40.063em) {
+
   .notepad-content .notepad-index-post {
     padding-top: 4.375rem;
     padding-bottom: 4.375rem;
@@ -388,32 +389,24 @@ main, .notepad-share-icons, .notepad-disqus {
       margin-bottom: 0;
     }
   }
-}
 
-@media only screen and (min-width: 40.063em) {
   .notepad-content .notepad-index-post .notepad-post-header .notepad-post-title {
     text-align: left;
     font-size: 2.125rem;
     margin-bottom: 0.9375rem;
   }
-}
 
-@media only screen and (min-width: 40.063em) {
   .notepad-content .notepad-index-post .notepad-post-excerpt {
     text-align: left;
   }
-}
 
-@media only screen and (min-width: 40.063em) {
   .notepad-content .notepad-index-post .notepad-index-post-tags {
     padding-top: 0.3125rem;
     padding-bottom: 0.3125rem;
     text-align: left;
     float: left;
   }
-}
 
-@media only screen and (min-width: 40.063em) {
   .notepad-content .notepad-index-post .notepad-post-read-more {
     width: auto;
     float: left;
