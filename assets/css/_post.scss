@@ -338,7 +338,7 @@ html, body, .notepad-post-container, .notepad-post-header {
   .post-template .notepad-blog-menu ul li a {
     color: $text_light;
     &:hover {
-      border-bottom: 0.1875rem solid white;
+      border-bottom: 0.1875rem solid $background_gray;
     }
   }
 }
