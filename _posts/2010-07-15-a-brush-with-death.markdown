@@ -18,7 +18,8 @@ First of all, my father Gary Wiens has been severely injured and he's in stable 
 
 On Sunday July 11th, Gary, our friend Charlie, and I were hiking [near Mount Baker](http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105939579805808308029.00045c3a6d30bda563a14&ll=48.664799,-121.593778&spn=0.00288,0.005777&t=h&z=18&iwloc=00048b4f0d138719a0510) in the North Cascades. We were hiking across an avalanche chute when we heard a loud crashing sound from above us. I looked up, and saw a huge log, eerily silhouetted against the sky, falling down from the cliffs above us. I remember thinking that I should run out of the way, and then realizing that I was already running. Charlie and I both ran up the trail and got out of the way, but Gary was behind us and had to take refuge behind a large fallen log. The falling log hit the log he was hiding behind, and both of the logs rolled over him and continued down the slope. The whole incident happened in slow motion; it was perhaps the longest few seconds of my life.
 
-[![The fallen log](/images/2010/07/the-perpetrator-300x225.jpg)](/images/2010/07/the-perpetrator.jpg)
+[![The fallen log](/images/2010/07/the-perpetrator-300x225.jpg){: style="float: right; border: 2px solid black; margin: 20px"}](/images/2010/07/the-perpetrator.jpg)
+
 
 Charlie and I immediately rushed to Gary to help him. The first few minutes were the scariest, blood was coming out of his mouth and each of his shallow breaths came out as a horrible moan. It was made worse by the fact that his eyes were glazed over and were moving erratically. We had seen a ranger with a radio earlier, and so Charlie immediately left to find him and summon help. There were two hikers behind us, Philip and David, who were both extremely helpful and supportive. It would have been much worse if I were alone. After a few minutes Gary calmed down immensely. His breathing slowed, and he was able to speak and focus his eyes. I did a quick survey of his injuries; I checked his pupils for concussion, and verified that he could move and feel his extremities.
 
@@ -26,7 +27,7 @@ At this point, Gary asked that we put all his warm clothes on him. This was surp
 
 After about half an hour, Charlie returned with the ranger, a tough-looking guy named Ben Lehman. Not only was he able to call in help on his radio, but he also was a trained wilderness EMT. What a stroke of luck! Ben was amazingly helpful. He was calm and collected, and from what I remember from my limited training, he did all of the first-responder procedure by the book. He did a variety of diagnostic checks, everything from taking pulse to checking Gary's entire neck and spine for possible fractures. Gary was calm and coherent this entire time, although he did cry out in pain when we moved him to check his spine. After he evaluated Gary, Ben pulled out a sleeping pad, and with the help of the two hikers we very carefully moved Gary up onto the trail.
 
-[![The log that Gary hid behind](/images/2010/07/the-refuge1-225x300.jpg)](/images/2010/07/the-refuge1.jpg)
+[![The log that Gary hid behind](/images/2010/07/the-refuge1-225x300.jpg){: style="float: left; border: 2px solid black; margin: 20px"}](/images/2010/07/the-refuge1.jpg)
 
 The accident had happened about two and a half miles from the trailhead, over relatively rough terrain. At this point, I ran to the trailhead, both to put the dog in the car and to ensure that the EMTs arriving on foot were able to find their way to the accident. It felt good to be moving, to be doing something that felt constructive. I met some EMTs from Skagit County at the trailhead, and headed back to the site of the accident. By the time I returned, two very competent EMTs from the Navy had been dropped from a helicopter and were preparing to strap Gary into a backboard to be airlifted out. We could tell Gary was in good hands, with both the Navy EMTs and the Skagit County EMTs, so Charlie and I said our goodbyes, and hiked out to the trailhead to race Gary to the hospital.
 
@@ -34,7 +35,7 @@ We worked out later that Gary had arrived at Harborview Medical Center before Ch
 
 We were then told that he'd need to have surgery on his pelvis, and that it was possible he'd have to wait over a day for this to be done. At this point, Charlie and I were both exhausted, so we said goodbye and went home to sleep. The following morning I found out that they were able to get Gary into surgery early in the morning, and had re-aligned his pelvis, and installed a metal bar to keep it stabilized. The metal bar sticks out from his hips, and it looks like something you might hang a hand towel on.
 
-[![Gary sleeping in the ICU](/images/2010/07/the-survivor-225x300.jpg)](/images/2010/07/the-survivor.jpg)
+[![Gary sleeping in the ICU](/images/2010/07/the-survivor-225x300.jpg){: style="float: right; border: 2px solid black; margin: 20px"}](/images/2010/07/the-survivor.jpg)
 
 Gary has since been moved out of the ICU, and is doing quite well. He should be out of the hospital relatively soon. A full recovery is expected, although the hospital staff has been very reluctant to give specific numbers on recovery times. The one concrete number we’ve been given is that it’ll take at least six weeks for his pelvis to become “load-bearing”. The recovery process is going to be frustrating and painful, and he’ll need lots of assistance and rehabilitation.
 
