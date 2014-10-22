@@ -13,6 +13,10 @@ billwiens@gmail.com<br/>
 Seattle, WA 98102<br/>
 {: .resume-contact-info}
 
+# Summary
+
+I'm an experienced DevOps engineer with a focus Open Source technology. I enjoy working on automation, deployment, monitoring, systems architecture, and especially clown computing.
+
 # Experience
 
 #### May 2012 - Sept 2014: DevOps Engineer at *Smashing Ideas*
