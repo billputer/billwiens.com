@@ -21,9 +21,9 @@ I'm an experienced DevOps engineer with a focus Open Source technology. I enjoy 
 
 #### May 2012 - Sept 2014: DevOps Engineer at *Smashing Ideas*
 * Worked with internal developers and client operations staff to provision infrastructure and enable rapid deployment for Python and PHP web applications and services. 
-* Used both Puppet and Chef to manage CentOS and Ubuntu servers, including physical servers and virtualized in the cloud (AWS, Rackspace).
-* Did performance analyses to find bottlenecks and advised on/implemented fixes.
-* Acted in a "firefighter" role to debug and fix critical bugs. 
+* Used both Puppet and Chef to manage CentOS and Ubuntu servers, including physical servers and those virtualized in the cloud (AWS, Rackspace).
+* Completed performance analyses to find bottlenecks and advised on/implemented fixes.
+* Acted in a "firefighter" role to debug and fix critical bugs.
 * Used a variety of monitoring and analytics tools (Nagios, Munin, Boundary, New Relic).
 * Introduced the use of Vagrant to create disposable development environments, and Jenkins for build automation.
 
@@ -54,7 +54,7 @@ I'm an experienced DevOps engineer with a focus Open Source technology. I enjoy 
 # Technical Skills
 
 * Capable of creating concise and elegant code in C++, Python, PHP, and Ruby.
-* Well versed in tools such as Drupal, Django, Fabric, Capistrano, and Vagrant.
+* Well versed in tools and frameworks such as Django, Fabric, Capistrano, and Vagrant.
 * Knowledgeable in front-end web technologies such as HTML, CSS, and JavaScript.
 * Almost a decade of experience with CentOS and Ubuntu Linux.
 * Worked with Apache, Nginx, Gunicorn, Memcached, MySQL, PostgreSQL, and others.
