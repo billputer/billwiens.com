@@ -15,12 +15,12 @@ Seattle, WA 98102<br/>
 
 # Summary
 
-I'm an experienced DevOps engineer with a focus Open Source technology. I enjoy working on automation, deployment, monitoring, systems architecture, and especially clown computing.
+I'm an experienced DevOps engineer with a focus on Open Source technology. I enjoy working on automation, deployment, monitoring, systems architecture, and especially clown computing.
 
 # Experience
 
 #### May 2012 - Sept 2014: DevOps Engineer at *Smashing Ideas*
-* Worked with internal developers and client operations staff to provision infrastructure and enable rapid deployment for Python and PHP web applications and services. 
+* Worked with internal developers and client operations staff to provision infrastructure and enable rapid deployment for Python and PHP web applications and services.
 * Used both Puppet and Chef to manage CentOS and Ubuntu servers, including physical servers and those virtualized in the cloud (AWS, Rackspace).
 * Completed performance analyses to find bottlenecks and advised on/implemented fixes.
 * Acted in a "firefighter" role to debug and fix critical bugs.
@@ -29,7 +29,7 @@ I'm an experienced DevOps engineer with a focus Open Source technology. I enjoy 
 
 #### August 2010 - May 2012: Developer at *Smashing Ideas*
 * Administered a platform of 70+ international Drupal sites and led a team to overhaul and maintain them.
-* Led initiatives to add Varnish, Memcached, and a CDN to our infrastructure. 
+* Led initiatives to add Varnish, Memcached, and a CDN to our infrastructure.
 * Trained new developers.
 * Developed and documented process for tracking, testing, and deploying bug fixes and new features.
 * Acted as a security liaison and provided a quick turnaround on critical security issues.
