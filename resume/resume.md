@@ -69,17 +69,13 @@ B.A., Computer Science - 2004-2008
 Linkoping University in Linköping, Sweden<br/>
 Study abroad program - 2007
 
-# Coworkers know me for
+# Interests
 
-* My incredible collection of animated GIFs
-* My incredible teamwork and ass-covering
-* Explaining technological trade-offs to non-techy stakeholders
-
-# Activities and Interests
-
-* Ultimate, backpacking, biking, skiing, concerts, gaming (PC, tabletop, roleplaying).
-* Lifehacking, open-content and open-source communities, mobile computing.
-* Graphic design, assembling and disassembling everything, vintage road bikes, ascending mountains.
+* Assembling and dissassembling everything.
+* The great outdoors.
+* Games of all sorts.
+* Collecting animated GIFs.
+* Food, booze, and music.
 * The intersection of technology and culture.
 
 # References
