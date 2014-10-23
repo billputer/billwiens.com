@@ -47,7 +47,7 @@ I'm an experienced DevOps engineer with a focus on Open Source technology. I enj
 #### Feb 2009 - Sept 2009: Linux System Administrator at *Freelock Computing*
 
 * Administered Ubuntu and Red Hat Linux servers for Freelock and clients.
-* Performed maintenance and deployment of Drupal web sites.
+* Performed maintenance and deployment of Drupal websites.
 * Took charge of an initiative to document and consolidate Freelock's server infrastructure.
 * Migrated internal services to a virtualized environment using VMware Server.
 
@@ -71,7 +71,7 @@ Study abroad program - 2007
 
 # Interests
 
-* Assembling and dissassembling everything.
+* Assembling and disassembling everything.
 * The great outdoors.
 * Games of all sorts.
 * Collecting animated GIFs.
