@@ -4,10 +4,20 @@
     .notepad-post-menu-header-simple,
     .notepad-site-head-menu,
     .notepad-site-footer {
-        display: none
+        display: none;
+    }
+
+    .notepad-resume {
+      margin-top: 2rem;
+
+      .notepad-page-header {
+        display: none;
+      }
+
+
     }
 
     html {
-        font-size: 85%;
+        font-size: 69%;
     }
 }
