@@ -8,7 +8,7 @@ css-class: notepad-home-content
 
 # In meatspace
 
-I’m Bill Wiens. You either know me or you don’t.
+I’m Bill Wiens. Raised in the mountains of Montana, I've since settled in Seattle. I [stare at glowing rectangles](http://www.theonion.com/articles/report-90-of-waking-hours-spent-staring-at-glowing,2747/) for a living.
 
 # On the Internet
 
