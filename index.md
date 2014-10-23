@@ -4,7 +4,7 @@ title: Home
 css-class: notepad-home-content
 ---
 
-[![Bill with a wolf](/images/profile/bill-wolf-large-300x300.jpg){: style="border-width: 2px; border-color: black; border-style: solid; margin: 15px;"}](/images/profile/bill-wolf-large.jpg)
+[![Bill with a wolf](/images/profile/bill-wolf-large-300x300.jpg){: .home-profile-pic}](/images/profile/bill-wolf-large.jpg)
 
 # In meatspace
 
