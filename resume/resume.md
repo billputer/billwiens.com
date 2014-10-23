@@ -15,7 +15,7 @@ Seattle, WA 98102<br/>
 
 # Summary
 
-I'm an experienced DevOps engineer with a focus on Open Source technology. I enjoy working on automation, deployment, monitoring, systems architecture, and especially clown computing.
+I'm an experienced DevOps engineer who loves open-source technology. I'm a generalist; I like to delve into all parts of the stack. I design reliable and efficient systems with my skills in automation, deployment, monitoring, and clown computing.
 
 # Experience
 
@@ -23,7 +23,7 @@ I'm an experienced DevOps engineer with a focus on Open Source technology. I enj
 * Worked with internal developers and client operations staff to provision infrastructure and enable rapid deployment for Python and PHP web applications and services.
 * Used both Puppet and Chef to manage CentOS and Ubuntu servers, including physical servers and those virtualized in the cloud (AWS, Rackspace).
 * Completed performance analyses to find bottlenecks and advised on/implemented fixes.
-* Acted in a "firefighter" role to debug and fix critical bugs.
+* Acted in a "firefighter" role to debug and fix unexpected system issues.
 * Used a variety of monitoring and analytics tools (Nagios, Munin, Boundary, New Relic).
 * Introduced the use of Vagrant to create disposable development environments and Jenkins for build automation.
 
