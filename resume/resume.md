@@ -66,7 +66,7 @@ I'm an experienced DevOps engineer who loves open-source technology. I'm a gener
 Willamette University in Salem, OR<br/>
 B.A., Computer Science — 2004–2008
 
-Linkoping University in Linköping, Sweden<br/>
+Linköping University in Linköping, Sweden<br/>
 Study abroad program — 2007
 
 # Interests
