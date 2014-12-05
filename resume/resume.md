@@ -15,7 +15,7 @@ Seattle, WA 98102<br/>
 
 # Summary
 
-I'm an experienced DevOps engineer who loves open-source technology. I'm a generalist; I like to delve into all parts of the stack. I design reliable and efficient systems with my skills in automation, deployment, monitoring, and clown computing.
+I'm an experienced DevOps engineer who loves open-source technology. I'm a generalist; I like to delve into all parts of the stack. I design reliable and efficient systems with my skills in automation, deployment, monitoring, and <span title="err...cloud"  data-tooltip aria-haspopup="true" class="has-tip">clown</span> computing.
 
 # Experience
 
