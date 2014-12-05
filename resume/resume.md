@@ -83,3 +83,9 @@ I'm an experienced DevOps engineer who loves open-source technology. I'm a gener
 # References
 
 Available upon request.
+
+{: .resume-download}
+# Download
+
+{: .resume-download}
+This resume is also available in [PDF](/resume/bill_wiens_resume.pdf) and [TXT](/resume/bill_wiens_resume.txt) formats.
