@@ -9,9 +9,9 @@ categories:
 - Technology
 ---
 
-I saw [this gif](http://bdub.club/i/cool/magic-triangles.gif) recently and was enthralled by it's recursive nature, so I decided to recreate it with Javascript and Canvas as a simple programming exercise.
-<canvas id="magic-triangles" width="500" height="500" style="display: block; margin: auto;"></canvas>
+I saw [this gif](http://bdub.club/i/cool/magic-triangles.gif) recently and was enthralled by it's recursive nature, so I decided to recreate it with Javascript and Canvas as a simple programming exercise. Check out my attempt below.
 
+<canvas id="magic-triangles" width="500" height="500" style="display: block; margin: auto;"></canvas>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="http://code.createjs.com/createjs-2013.12.12.min.js"></script>
 <script src="/assets/js/magic-triangles/triangles.js"></script>
