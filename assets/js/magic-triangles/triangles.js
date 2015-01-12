@@ -116,7 +116,6 @@ $(document).ready(function init() {
         .call(remove_from_stage, [triangle]);
 
     if ( triangle.t_parent ) {
-      console.log(triangle);
       createjs.Tween.get(triangle.t_parent)
                     .wait(rotation_speed * 2)
                     .call(reset, [triangle.t_parent]);
