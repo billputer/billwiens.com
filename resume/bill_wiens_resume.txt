@@ -33,12 +33,6 @@ I'm an experienced DevOps engineer who loves open-source technology. I'm a gener
 * Focused on agile development using close collaboration with clients.
 * Wrote custom PHP modules, used JavaScript and jQuery to create dynamic experiences, wrote custom SQL queries.
 
-## Nov 2009 – Feb 2010: Software Development Engineer at *Qworky.com*
-
-* Worked with a small distributed team to create Qworky Meetings, a Ruby on Rails web-application featuring XMPP-based in-browser chat.
-* Designed our development workflow utilizing Git and Capistrano for deployment.
-* Architected and maintained an application stack based on Apache, OpenFire, and MySQL.
-
 ## Feb 2009 – Sept 2009: Linux System Administrator at *Freelock Computing*
 
 * Administered Ubuntu and Red Hat Linux servers for Freelock and clients.
