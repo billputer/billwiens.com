@@ -1,0 +1,308 @@
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+html,
+body {
+  overflow: hidden;
+}
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+}
+#info-btn {
+  width: 38px;
+  height: 37px;
+  position: absolute;
+  cursor: pointer;
+  z-index: 9;
+  top: 16px;
+  right: 16px;
+  background: url("../src/cachemonet.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  display: none;
+}
+#info-btn:hover {
+  background-position: 0 -76px;
+}
+#info-btn.show {
+  background-position: 0 -38px;
+}
+#info-overlay {
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  left: 100%;
+  top: 0px;
+  position: absolute;
+  z-index: 6;
+  text-align: center;
+  -webkit-transition: opacity 0.2s ease-out;
+  -moz-transition: opacity 0.2s ease-out;
+  -ms-transition: opacity 0.2s ease-out;
+  transition: opacity 0.2s ease-out;
+  opacity: 0;
+}
+#info-overlay.show {
+  opacity: 1;
+  left: 0px;
+}
+#info-overlay #text {
+  position: absolute;
+  width: 70%;
+  height: 80%;
+  display: table;
+  top: 0px;
+  left: 15%;
+}
+#info-overlay #text h1 {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 26px;
+  line-height: 40px;
+}
+#info-overlay #text h1 a {
+  color: #000;
+  text-decoration: none;
+  border-bottom: 2px solid #0000FF;
+}
+#info-overlay #social {
+  position: fixed;
+  left: 50%;
+  bottom: 80px;
+  width: 200px;
+  height: 40px;
+  margin: 0 0 0 -100px;
+  text-align: center;
+}
+#info-overlay #social #fb {
+  float: left;
+  width: 100px;
+  height: 40px;
+  display: inline-block;
+}
+#info-overlay #social #tw {
+  float: left;
+  width: 100px;
+}
+#info-overlay #credits {
+  position: fixed;
+  width: 520px;
+  bottom: 30px;
+  font-size: 18px;
+  line-height: 30px;
+  left: 50%;
+  margin: 0 0 0 -260px;
+}
+#info-overlay #credits a {
+  color: #000;
+  text-decoration: none;
+  display: inline-block;
+  float: left;
+  margin: 0 25px 0 0;
+  background-repeat: no-repeat !important;
+  background-size: 100% !important;
+  background-position: center center !important;
+}
+#info-overlay #credits a:last-child {
+  margin-right: 0px;
+}
+#info-overlay #credits a span {
+  display: none;
+}
+#info-overlay #credits a#universalscene {
+  width: 140px;
+  height: 40px;
+  background-image: url("../src/universalscene.png");
+}
+#info-overlay #credits a#lassekorsgaard {
+  width: 145px;
+  height: 40px;
+  background-image: url("../src/footer.png");
+}
+#info-overlay #credits a#cplu {
+  width: 59px;
+  height: 40px;
+  background-image: url("../src/cplu.png");
+}
+#info-overlay #credits a#thatshit {
+  width: 93px;
+  height: 40px;
+  background-image: url("../src/thatshit.png");
+}
+#sound-btn {
+  width: 38px;
+  height: 37px;
+  cursor: pointer;
+  position: absolute;
+  z-index: 9;
+  top: 16px;
+  right: 60px;
+  background: url("../src/sound.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  display: none;
+}
+#sound-btn.muted,
+#sound-btn:hover {
+  background-position: 0 -38px;
+}
+#preload {
+  display: none;
+  top: -5000px;
+  left: -5000px;
+  position: fixed;
+  z-index: 0;
+}
+#wrapper {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 1;
+}
+#wrapper #background {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-repeat: repeat !important;
+  background-position: center center !important;
+}
+#wrapper #center {
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+}
