@@ -15,9 +15,16 @@ Seattle, WA 98102<br/>
 
 # Summary
 
-I'm an experienced software engineer who loves open-source technology. I'm a generalist; I like to delve into all parts of the stack. I design reliable and efficient systems with my skills in automation, deployment, monitoring, and <span title="err...cloud"  data-tooltip aria-haspopup="true" class="has-tip">clown</span> computing.
+I'm an experienced software engineer who loves open-source technology. I have a vast well of experience running and supporting web applications in production. I design for reliability and efficiency with my skills in automation, deployment, monitoring, and cloud computing.
 
 # Experience
+
+#### Mar 2015 - Present: DevOps Engineer at *LiquidPlanner*
+* Migrated the LiquidPlanner platform to AWS: defined implementation strategy, built out tooling and infrastructure, and guided the project from inception to production.
+* Responsible for the 24x7x365 performance and availability of our Ruby on Rails web application. Performed full stack troubleshooting and analysis of production issues.
+* Defined operations culture at LiquidPlanner. Managed the on-call rotation and trained engineers on incident response.
+* Transitioned configuration management from Puppet to Ansible. Managed infrastructure with Terraform.
+* Developed a layered security policy for LiquidPlanner. Ran day-to-day security operations, including applying critical patches and triaging security alerts.
 
 #### May 2012 – Sept 2014: DevOps Engineer at *Smashing Ideas*
 * Worked with internal developers and client operations staff to provision infrastructure and enable rapid deployment for Python and PHP web applications and services.
@@ -48,12 +55,12 @@ I'm an experienced software engineer who loves open-source technology. I'm a gen
 
 # Technical Skills
 
-* Capable of creating concise and elegant code in C++, Python, PHP, and Ruby.
-* Well-versed in tools and frameworks such as Django, Fabric, Capistrano, and Vagrant.
-* Knowledgeable in front-end web technologies such as HTML, CSS, and JavaScript.
+* Capable of creating concise and elegant code in Python, PHP, and Ruby. Ran and debugged plenty of C and Go.
+* Well-versed in tools and frameworks such as Django, Rails, Fabric, Capistrano, Terraform, Packer, and Vagrant.
+* Confident in managing Linux systems with Ansible, Chef, and Puppet.
 * Almost a decade of experience with CentOS and Ubuntu Linux.
-* Worked with Apache, Nginx, Gunicorn, Memcached, MySQL, PostgreSQL, and others.
-* Expert with Git and Subversion.
+* Extensive experience with Apache, Nginx, Redis, Memcached, MySQL, and PostgreSQL.
+* Expert with Git, Mercurial, and Subversion.
 * Superb problem-solving skills in hardware and networking.
 
 # Education
@@ -74,10 +81,6 @@ I'm an experienced software engineer who loves open-source technology. I'm a gen
 * Collecting animated GIFs.
 * Food, booze, and music.
 * The intersection of technology and culture.
-
-# References
-
-Available upon request.
 
 {: .resume-download}
 # Download
