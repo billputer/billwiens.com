@@ -41,5 +41,6 @@ sass:
 exclude:
 - Gemfile
 - Gemfile.lock
+- Rakefile
 - README.md
 - tasks
