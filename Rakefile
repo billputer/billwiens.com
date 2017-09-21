@@ -3,7 +3,7 @@ desc 'Build and deploy site with Jekyll'
 task :deploy do |t, args|
     puts "Rakefile: Building with a production configuration."
     sh 'bundle exec jekyll build --config _config.yml,_config-production.yml --trace'
-    sh 'rsync -avz --delete _site/ billwiens.com:~/billwiens.com/_site/'
+    sh 'aws --profile=personal s3 sync _site s3://billwiens.com/ --acl public-read --delete'
 end
 
 
