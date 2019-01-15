@@ -13,7 +13,7 @@ I saw [this gif](http://bdub.club/i/cool/magic-triangles.gif) recently and was e
 
 <canvas id="magic-triangles" width="500" height="500" style="display: block; margin: auto;"></canvas>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<script src="http://code.createjs.com/createjs-2013.12.12.min.js"></script>
+<script src="//code.createjs.com/createjs-2013.12.12.min.js"></script>
 <script src="/assets/js/magic-triangles/triangles.js"></script>
 
 I don't do much front-end programming, so this was a bit of a challenge. At first I thought it'd be fun to do this with CSS animations, but it turns out that drawing triangles with CSS is quite complicated. I made [this spinning triangle](http://codepen.io/billputer/pen/VYvVVj) and called it quits. CSS would have required me to statically position each triangle, and as you can see, there are plenty of triangles.
