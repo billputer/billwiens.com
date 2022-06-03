@@ -4,11 +4,11 @@ title: Home
 css-class: notepad-home-content
 ---
 
-[![Bill with a wolf](/images/profile/bill-wolf-large-300x300.jpg){: .home-profile-pic}](/images/profile/bill-wolf-large.jpg)
+[![Picture of smiling Bill](/images/profile/snail-sans-snail-320x320.jpg){: .home-profile-pic}](/images/profile/snail-sans-snail-original.jpg)
 
 # In meatspace
 
-I’m Bill Wiens. Raised in the mountains of Montana, I've since settled in Seattle. I [stare at glowing rectangles](http://www.theonion.com/articles/report-90-of-waking-hours-spent-staring-at-glowing,2747/) for a living.
+I’m Bill Wiens. Raised in the mountains of Montana, I've since settled in Tacoma. I [stare at glowing rectangles](http://www.theonion.com/articles/report-90-of-waking-hours-spent-staring-at-glowing,2747/) for a living.
 
 # On the Internet
 
