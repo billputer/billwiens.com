@@ -16,7 +16,7 @@ On this site, you can view [recent posts](/blog/recent/) or [browse by category]
 
 My presence extends beyond billwiens.com.
 
-* [Twitter](https://twitter.com/billwiens) – short bursts of information
+* [Mastodon](https://hachyderm.io/@billwiens) – short bursts of information
 * [Github](https://github.com/billputer) – scraps of code
 * [Last.fm](http://www.last.fm/user/bwiens) – my musical tastes
 * [LinkedIn](http://www.linkedin.com/in/billwiens) – in a business suit

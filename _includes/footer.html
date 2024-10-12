@@ -12,11 +12,19 @@
             </span>
         </a>
         {% endif %}
+        {% if site.owner.mastodon %}
+        <a href="{{ site.owner.mastodon }}">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa-brands fa-mastodon fa-stack-1x"></i>
+            </span>
+        </a>
+        {% endif %}
         {% if site.owner.instagram %}
         <a href="https://instagram.com/{{ site.owner.instagram }}">
             <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
-                <i class="fa fa-instagram fa-stack-1x"></i>
+                <i class="fa-brands fa-instagram-square fa-stack-1x"></i>
             </span>
         </a>
         {% endif %}
@@ -24,7 +32,7 @@
         <a href="https://github.com/{{ site.owner.github }}">
             <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
-                <i class="fa fa-github fa-stack-1x"></i>
+                <i class="fa-brands fa-github-square fa-stack-1x"></i>
             </span>
         </a>
         {% endif %}
@@ -32,7 +40,7 @@
         <a href="https://facebook.com/{{ site.owner.facebook }}">
             <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
-                <i class="fa fa-facebook fa-stack-1x"></i>
+                <i class="fa-brands fa-facebook-square fa-stack-1x"></i>
             </span>
         </a>
         {% endif %}

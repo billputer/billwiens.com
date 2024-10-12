@@ -13,8 +13,7 @@ owner:
   avatar: profile/bill-wolf-large.jpg
   email: billwiens@gmail.com
   # Social networking links used in footer.
-  twitter: billwiens
-  facebook: billwiens
+  mastodon: https://hachyderm.io/@billwiens
   github: billputer
   instagram: billputer
 
