@@ -1,6 +1,6 @@
 # Site settings
 title: billwiens.com
-email: billwiens@gmail.com
+email: bill@billwiens.com
 description: >
   Welcome to my personal Internet website.
 baseurl: ""
@@ -11,7 +11,7 @@ logo: logo.png
 owner:
   name: Bill Wiens
   avatar: profile/bill-wolf-large.jpg
-  email: billwiens@gmail.com
+  email: bill@billwiens.com
   # Social networking links used in footer.
   mastodon: https://hachyderm.io/@billwiens
   github: billputer

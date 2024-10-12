@@ -8,7 +8,7 @@ css-class: notepad-resume
 ## Bill Wiens
 {: .resume-name}
 
-billwiens@gmail.com<br/>
+bill@billwiens.com<br/>
 503.689.3803<br/>
 Seattle, WA 98102<br/>
 {: .resume-contact-info}

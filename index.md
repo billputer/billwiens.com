@@ -23,4 +23,4 @@ My presence extends beyond billwiens.com.
 
 # Contact
 
-You can contact me at [billwiens@gmail.com](mailto:billwiens@gmail.com).
+You can contact me at [bill@billwiens.com](mailto:bill@billwiens.com).
